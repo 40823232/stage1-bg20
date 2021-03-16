@@ -25,6 +25,7 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210316175440.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210316195317.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -177,7 +178,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;h1&gt;CD2021 協同產品設計實習&lt;/h1&gt;
 
-    &lt;h3&gt;分組報告&lt;/h3&gt;
+    &lt;h3&gt;stage1-bg20分組報告&lt;/h3&gt;
     &lt;p&gt;
         &lt;small&gt;Created by &lt;a href="https://github.com/40823213/cd2021"&gt;40823213&lt;/a&gt; and &lt;a href="https://github.com/40823232/cd2021"&gt;40823232&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
@@ -207,7 +208,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;零件介紹&lt;/h2&gt;
     &lt;h3&gt;外殼&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height=''144" src="file:///G:/kmol2021_spring_v2/data/tmp/stage1-bg20/downloads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171604.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height=''144" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171604.png" width="300"/&gt;&lt;/p&gt;
     &lt;p&gt;支撐桿件和容器&lt;/p&gt;
 
 &lt;/section&gt;
@@ -215,14 +216,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;零件介紹&lt;/h2&gt;
     &lt;h3&gt;底座&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height=''144" src="file:///G:/kmol2021_spring_v2/data/tmp/stage1-bg20/downloads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-16%20181654.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height=''144" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-16%20181654.png" width="300"/&gt;&lt;/p&gt;
     &lt;p&gt;旋轉的基準和驅動桿件的升降&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;零件介紹&lt;/h2&gt;
     &lt;h3&gt;桿子&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height=''144" src="file:///G:/kmol2021_spring_v2/data/tmp/stage1-bg20/downloads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-16%20181832.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height=''144" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-16%20181832.png" width="300"/&gt;&lt;/p&gt;
     &lt;p&gt;控制容器升降的幅度&lt;/p&gt;
 
 &lt;/section&gt;</t>
@@ -246,8 +247,15 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210316175440.1">&lt;section&gt;
     &lt;h2&gt;零件介紹&lt;/h2&gt;
     &lt;h3&gt;容器&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height=''144" src="file:///G:/kmol2021_spring_v2/data/tmp/stage1-bg20/downloads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171539.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height=''144" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171539.png" width="300"/&gt;&lt;/p&gt;
     &lt;p&gt;始終要與地面保持平行&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210316195317.1">&lt;section&gt;
+    &lt;h2&gt;組合圖&lt;/h2&gt;
+
+    &lt;p&gt;&lt;img alt="" height=''300" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171718.png" width="500"/&gt;&lt;/p&gt;
+    
 
 &lt;/section&gt;</t>
 </tnodes>
