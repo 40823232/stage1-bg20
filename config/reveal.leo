@@ -24,6 +24,7 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210316175440.1"><vh>slide 3-4</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -216,9 +217,9 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;遊樂設施&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+      動機是我們想要了解設施的構造，和作動的方式。
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -238,13 +239,11 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;零件介紹&lt;/h2&gt;
+    &lt;h3&gt;主體&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/SR.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
@@ -621,7 +620,7 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20200818195731.1">&lt;section&gt;
     &lt;h2&gt;Take a Moment&lt;/h2&gt;
     &lt;p&gt;
-        Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
+        &lt;img alt="" height="300" src="./../images/SR.png" width="300"/&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -645,5 +644,6 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210316175440.1"></t>
 </tnodes>
 </leo_file>
