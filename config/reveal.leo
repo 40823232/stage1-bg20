@@ -18,7 +18,7 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20200818170328.1"><vh>封面</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -207,17 +207,21 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+<t tx="leo.20200818170328.1">## CD2021 協同產品設計實習
+
+### stage1-bg20
+
+&lt;small&gt;
+Created by [40823213](https://github.com/40823213/cd2021) and [40823232](https://github.com/40823232/cd2021)
+
+
+    &lt;/script&gt;
 &lt;/section&gt;
 
-</t>
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;Hello There&lt;/h2&gt;
     &lt;p&gt;
