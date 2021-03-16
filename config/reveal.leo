@@ -207,21 +207,14 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">## CD2021 協同產品設計實習
+<t tx="leo.20200818170328.1">&lt;section&gt;
+    &lt;h1&gt;CD2021 協同產品設計實習&lt;/h1&gt;
 
-### stage1-bg20
-
-&lt;small&gt;
-Created by [40823213](https://github.com/40823213/cd2021) and [40823232](https://github.com/40823232/cd2021)
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;</t>
+    &lt;h3&gt;分組報告&lt;/h3&gt;
+    &lt;p&gt;
+        &lt;small&gt;Created by &lt;a href="https://github.com/40823213/cd2021"&gt;40823213&lt;/a&gt; and &lt;a href="https://github.com/40823232/cd2021"&gt;40823232&lt;/a&gt;&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;Hello There&lt;/h2&gt;
     &lt;p&gt;
