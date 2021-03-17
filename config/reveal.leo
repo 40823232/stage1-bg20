@@ -28,6 +28,10 @@
 <v t="leo.20210316195317.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20210317134003.1"><vh>newHeadline</vh>
+<v t="leo.20210317134603.1"><vh>newHeadline</vh></v>
+<v t="leo.20210317134657.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 </v>
@@ -151,7 +155,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;stage1-bg20&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -257,6 +261,24 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height=''300" src="https://raw.githubusercontent.com/40823232/stage1-bg20/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-14%20171718.png" width="500"/&gt;&lt;/p&gt;
     
 
+&lt;/section&gt;</t>
+<t tx="leo.20210317134003.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210317134603.1">&lt;section&gt;
+    &lt;h2&gt;採用或不採用 Leo Editor &lt;/h2&gt;
+     &lt;h3&gt;採用&lt;/h3&gt;
+    &lt;p&gt;能更清楚的在reveal或pelican上面呈現出想表達的東西
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317134657.1">&lt;section&gt;
+    
+     &lt;h2&gt;不採用&lt;/h2&gt;
+    &lt;p&gt;無法從中找出想表達的重點，必須利用圖片或影片來輔助
+
+    &lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
