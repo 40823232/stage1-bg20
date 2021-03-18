@@ -32,6 +32,7 @@
 <v t="leo.20210317134603.1"><vh>newHeadline</vh></v>
 <v t="leo.20210317134657.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20210318185122.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 </v>
@@ -269,14 +270,20 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210317134603.1">&lt;section&gt;
     &lt;h2&gt;採用或不採用 Leo Editor &lt;/h2&gt;
      &lt;h3&gt;採用&lt;/h3&gt;
-    &lt;p&gt;能更清楚的在reveal或pelican上面呈現出想表達的東西
+    &lt;p&gt;能更清楚的在reveal或pelican上面呈現出想表達的東西。
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317134657.1">&lt;section&gt;
     
      &lt;h2&gt;不採用&lt;/h2&gt;
-    &lt;p&gt;無法從中找出想表達的重點，必須利用圖片或影片來輔助
+    &lt;p&gt;無法從中找出想表達的重點，必須利用圖片或影片來輔助。
+
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318185122.1">&lt;section&gt;
+    &lt;h2&gt;分組的有效方案&lt;/h2&gt;
+    &lt;p&gt;自選組員能夠更有效的將事情較快的分工完成，且協調也比較不會有障礙，遇到困難就互相幫忙，雖然stage1只有兩人一組，但是整體的進度比較不會被耽誤的。
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
