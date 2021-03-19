@@ -34,6 +34,7 @@
 </v>
 <v t="leo.20210318185122.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20210319121033.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 </v>
 </v>
@@ -287,5 +288,11 @@ vertical: body pane on the botton</t>
 
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210319121033.1">&lt;section&gt;
+            &lt;h2&gt;PDF&lt;/h2&gt;
+            &lt;iframe data-src="stage1-bg20 (1).pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+        &lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
